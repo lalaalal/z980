@@ -1836,6 +1836,8 @@
 				<data>LAEAAA==</data>
 				<key>device-id</key>
 				<data>FlkAAA==</data>
+				<key>enable-hdmi20</key>
+				<data>AQAAAA==</data>
 				<key>enable-backlight-smoother</key>
 				<data>AQAAAA==</data>
 				<key>framebuffer-con0-alldata</key>
